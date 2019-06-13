@@ -1,2 +1,2 @@
 # tvonekey
-backup onekey
+收集各类一键脚本，所有权利归原作者所有。
