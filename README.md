@@ -17,3 +17,5 @@ V2ray 233 bash <(curl -s –L https://git.io/fj2qi)
 安装bash go.sh --local ./v2ray-linux-64.zip
 
 删除bash go.sh --remove
+
+时间校正、配置、启动与其他方式一样
