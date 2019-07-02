@@ -3,10 +3,10 @@
 除了官网一键代码，233等大多数原代码已失效，原因你懂的。
 
 自制版官方山寨脚本
-bash <(curl -L -s https://raw.githubusercontent.com/mikewubox/tvonekey/master/go.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/tvonekey/master/go.sh)
 
 自制版233山寨脚本
-bash <(curl -L https://raw.githubusercontent.com/mikewubox/tvonekey/master/v2ray.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/tvonekey/master/v2ray.sh)
 
 
 #手动本地安装
