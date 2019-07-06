@@ -18,3 +18,14 @@ bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/tvonekey/master/v2ra
 删除bash go.sh --remove
 
 时间校正、配置、启动与其他方式一样
+
+#V2ray SPROV面板自制独立一键脚本
+安装CURL
+apt-get update -y && apt-get install curl -y
+安装sudo 
+apt-get install sudo
+安装yum 
+apt-get install yum
+
+请务必使用 root 用户运行！
+wget -O /usr/bin/sprov-ui -N --no-check-certificate https://github.com/mikewubox/sprov-ui/raw/master/sprov-ui.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
