@@ -2,10 +2,10 @@
 收集各类一键脚本，所有权利归原作者所有。
 除了官网一键代码，逗比233等各路大神的大多数原版一键脚本已失效。
 
-## 自制版官方山寨脚本
+## 独立版官方克隆脚本
 bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/tvonekey/master/go.sh)
 
-## 自制版233山寨脚本
+## 独立版233克隆脚本
 bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/tvonekey/master/v2ray.sh)
 
 
@@ -19,7 +19,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/tvonekey/master/v2ra
 
 时间校正、配置、启动与其他方式一样
 
-# V2ray SPROV面板自制独立一键脚本
+# V2ray SPROV面板克隆独立一键脚本
 
 安装CURL
 apt-get update -y && apt-get install curl -y
@@ -31,4 +31,5 @@ apt-get install sudo
 apt-get install yum
 
 请务必使用 root 用户运行！
+
 wget -O /usr/bin/sprov-ui -N --no-check-certificate https://github.com/mikewubox/sprov-ui/raw/master/sprov-ui.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
