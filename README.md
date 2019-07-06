@@ -1,6 +1,6 @@
 # tvonekey
 收集各类一键脚本，所有权利归原作者所有。
-除了官网一键代码，逗比233等各路大神的大多数原版一键脚本已失效。
+除了官网一键代码，逗比SSR233等各路大神的大多数原版一键脚本已删贴走人隐居甚至失效。
 
 ## 独立版官方克隆脚本
 bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/tvonekey/master/go.sh)
