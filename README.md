@@ -33,3 +33,7 @@ apt-get install yum
 请务必使用 root 用户运行！
 
 wget -O /usr/bin/sprov-ui -N --no-check-certificate https://github.com/mikewubox/sprov-ui/raw/master/sprov-ui.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
+
+# 全新面板V4.3
+bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/v2-ui/master/install.sh)
+
