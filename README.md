@@ -14,7 +14,8 @@ bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/tvonekey/master/go.s
 ## 独立版233克隆脚本
 bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/tvonekey/master/v2ray.sh)
 
-自建bash <(curl -s -L https://git.io/JeBzl)
+bash <(curl -s -L https://git.io/JeBzl)
+```
 
 # 手动本地安装
 
