@@ -15,7 +15,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/tvonekey/master/go.s
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/tvonekey/master/v2ray.sh)
 ```
-##自
+## 自
 ```
 bash <(curl -s -L https://git.io/JeBzl)
 ```
