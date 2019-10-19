@@ -46,7 +46,10 @@ apt-get install yum
 wget -O /usr/bin/sprov-ui -N --no-check-certificate https://github.com/mikewubox/sprov-ui/raw/master/sprov-ui.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
 
 # 全新面板防删备份版V4.3
+```
 bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/v2-ui/master/install.sh)
-
+```
 #  基于Nginx 的 vmess+ws+tls 一键安装脚本
+```
 bash <(curl -L -s https://raw.githubusercontent.com/mikewubox/V2Ray_ws-tls_bash_onekey/master/install.sh) | tee v2ray_ins.log
+```
