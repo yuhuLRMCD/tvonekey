@@ -12,11 +12,11 @@
 bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/tvonekey/master/go.sh)
 
 ## 独立版233克隆脚本
-、、、
+```
 bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/tvonekey/master/v2ray.sh)
-、、、
+```
 ##自
-、、、
+```
 bash <(curl -s -L https://git.io/JeBzl)
 ```
 
