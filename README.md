@@ -26,4 +26,6 @@ bash <(curl -L -s https://raw.githubusercontent.com/mikewubox/V2Ray_ws-tls_bash_
 ## 服务器监视(中文)
 ```
 bash <(curl -L -s http://raw.githubusercontent.com/Fhaohaizi/netdata/master/netdata-installer-zh.sh
+``` 
+bash <(curl -Ls https://raw.githubusercontent.com/yuhuLRMCD/netdata/master/netdata-installer-zh.sh
 ```
