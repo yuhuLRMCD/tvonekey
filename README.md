@@ -15,10 +15,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/tvonekey/master/go.s
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/tvonekey/master/v2ray.sh)
 ```
-## 缩短
-```
-bash <(curl -s -L https://git.io/JeBzl)
-```
 # 全新面板防删备份版V4.3
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/v2-ui/master/install.sh)
