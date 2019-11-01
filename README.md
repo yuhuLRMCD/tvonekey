@@ -15,11 +15,15 @@ bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/tvonekey/master/go.s
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/tvonekey/master/v2ray.sh)
 ```
-# 全新面板防删备份版V4.3
+## 全新面板防删备份版V4.3
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/v2-ui/master/install.sh)
 ```
-#  基于Nginx 的 vmess+ws+tls 一键安装脚本
+##  基于Nginx 的 vmess+ws+tls 一键安装脚本
 ```
 bash <(curl -L -s https://raw.githubusercontent.com/mikewubox/V2Ray_ws-tls_bash_onekey/master/install.sh) | tee v2ray_ins.log
+```
+## 服务器监视(中文)
+```
+bash <(curl -Ls http://raw.githubusercontent.com/Fhaohaizi/netdata/master/netdata-installer-zh.sh
 ```
